@@ -1,0 +1,8 @@
+[31m╷[0m[0m
+[31m│[0m [0m[1m[31mError: [0m[0m[1mToo many command line arguments[0m
+[31m│[0m [0m
+[31m│[0m [0m[0mTo specify a working directory for the plan, use the global -chdir flag.
+[31m╵[0m[0m
+
+For more help on using this command, run:
+  terraform plan -help
